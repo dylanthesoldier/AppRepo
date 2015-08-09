@@ -1,0 +1,1 @@
+{"@type":"apprepo.App","name":"OpenSC","version":"0.15.0g20150524114129","hash":"","fileURL":"http://sourceforge.net/projects/opensc/files/OpenSC/nightly/win32/opensc-0.15.0g20150524114129-win32.msi","websiteURL":"https://github.com/OpenSC/OpenSC","prefix":"msiexec /i","suffix":"/qr /norestart","fileName":"opensc-0.15.0g20150524114129-win32.msi","date":"08/09/2015"}

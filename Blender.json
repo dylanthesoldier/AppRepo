@@ -1,0 +1,1 @@
+{"@type":"apprepo.App","name":"Blender","version":"2.75a","hash":"","fileURL":"http://mirror.cs.umn.edu/blender.org/release/Blender2.75/blender-2.75a-windows64.msi","websiteURL":"http://www.blender.org","prefix":"msiexec /i","suffix":"/qr /norestart","fileName":"blender-2.75a-windows64.msi","date":"08/09/2015"}

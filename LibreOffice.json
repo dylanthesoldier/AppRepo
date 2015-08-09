@@ -1,0 +1,1 @@
+{"@type":"apprepo.App","name":"LibreOffice","version":"5.0.0","hash":"","fileURL":"http://download.documentfoundation.org/libreoffice/stable/5.0.0/win/x86/LibreOffice_5.0.0_Win_x86.msi","websiteURL":"http://www.libreoffice.org","prefix":"msiexec /i","suffix":"/qr /norestart","fileName":"LibreOffice_5.0.0_Win_x86.msi","date":"08/09/2015"}
